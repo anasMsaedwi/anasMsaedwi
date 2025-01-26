@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @anasMsaedwi
+# 👋 Hi, I’m Anas Mohamed Saedwi
 
 - 👀 I’m interested in bioinformatics, genomics, transcriptomics, and data analysis.
 - 🌱 I’m currently learning single-cell RNA sequencing analysis and C++ programming for bioinformatics.
